@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: ISO 20022 Forum for Architects
+email: A4ISO20022.Secretariat@swift.com
+description: > # this means to ignore newlines until "baseurl:"
+  ISO 20022 is much more than just message definitions.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: A4ISO20022
+github_username:  ISO20022ArchitectForum
+
+# Build settings
+markdown: kramdown
+
